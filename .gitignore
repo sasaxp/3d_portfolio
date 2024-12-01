@@ -1,0 +1,17 @@
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local environment files
+.env.local
+.env.*.local
+
+# IDE and editor configurations
+.vscode/
+.idea/
+.DS_Store
+*.sw?
+
